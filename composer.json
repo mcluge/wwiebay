@@ -1,0 +1,17 @@
+{
+    "name": "wwi/wwiebay",
+    "version": "1.0.0",
+    "keywords": ["soap"],
+	"homepage": "https://github.com/mcluge/wwiebay",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Michael Pearson"
+		}
+	],
+    "autoload": {
+        "psr-0": {
+            "WWIEbay\\": "lib/"
+        }
+    }
+}
